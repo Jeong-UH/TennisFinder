@@ -1,1 +1,2 @@
-./chatbot_test/hidden_source/*.json
+# 토큰 등 고유식별 정보 포함 파일 ignore
+chatbot_test/hidden_source/*.json
